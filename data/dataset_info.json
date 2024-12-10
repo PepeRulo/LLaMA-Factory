@@ -632,5 +632,15 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "dragen_alpaca": {
+    "file_name": "dragen_alpaca.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "system": "system",
+      "history": "history"
+    }
   }
 }
